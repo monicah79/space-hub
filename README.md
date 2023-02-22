@@ -1,4 +1,4 @@
-# React-kanban
+# Space-hub
 <a name="readme-top"></a>
 
 
@@ -87,7 +87,7 @@ Html
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link]()
+- [Live Demo Link](https://monicah-space-hub-project.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,9 +153,6 @@ You can deploy this project using:
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/bill7pearl)
-- Twitter: [@twitterhandle](https://twitter.com/BillChami)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/billal-chami-263497194/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -173,7 +170,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/bill7pearl/react-kanban/issues).
+Feel free to check the [issues page](https://github.com/monicah79/space-hub/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -214,6 +211,6 @@ I would like to thank Microverse for giving me this opportunity to learn and eve
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT]() licensed.
+This project is [MIT](https://github.com/monicah79/space-hub/blob/space-hub/LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
